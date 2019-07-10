@@ -6,4 +6,8 @@ The python notebooks in this repo contain my work on generalizing a construction
 
 ## [11-HMOLS(1009)_test.ipynb](11-HMOLS(1009)_test.ipynb)
 
-This notebook contains my work on finding 10-HMOLS(2<sup>1009</sup>), and an unsuccessful attempt at extending to 11-HMOLS. It also includes lots of rough work from initially figuring out the project. 
+This notebook contains my work on finding 10-HMOLS(2<sup>1009</sup>), and an unsuccessful attempt at extending to 11-HMOLS. It also includes lots of rough work from initially figuring out the project. [HMOLS(2^1009)_check.ipynb](HMOLS(2^1009)_check.ipynb) just contains some code to do a second verification that the vectors found in _11-HMOLS(1009)_test.ipynb_ do indeed work.
+
+## Larger Matrices and Alphabet Sizes
+
+In the other two notebooks, [CosetsForBiggerMatrices.ipynb](CosetsForBiggerMatrices.ipynb) and [3-Holes_Coset_Finding.ipynb](3-Holes_Coset_Finding.ipynb), I just used the allowed coset finding algorithm from _11-HMOLS(1009)_test.ipynb_ on bigger matrices for both alphabet sizes 2 and 3 to see which order of Hadamard matrices would give good cosets. 
