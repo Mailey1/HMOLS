@@ -11,3 +11,7 @@ This notebook contains my work on finding 10-HMOLS(2<sup>1009</sup>), and an uns
 ## Larger Matrices and Alphabet Sizes
 
 In the other two notebooks, [CosetsForBiggerMatrices.ipynb](CosetsForBiggerMatrices.ipynb) and [3-Holes_Coset_Finding.ipynb](3-Holes_Coset_Finding.ipynb), I just used the allowed coset finding algorithm from 11-HMOLS(1009)_test.ipynb on bigger matrices for both alphabet sizes 2 and 3 to see which order of Hadamard matrices would give good cosets. 
+
+## april-presentation.pdf
+
+A paper I wrote for the end of the research project. Outlines what Latin Squares and HMOLS are, as well as outlines the proof and procedure of the construction used in the python notebooks.
